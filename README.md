@@ -17,7 +17,7 @@
 <p align="left">
 <!--   <a href="https://codepen.io/mme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mme" height="30" width="40" /></a>
   <a href="https://dev.to/mme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mme" height="30" width="40" /></a> -->
-  <a href="https://linkedin.com/in/aaldu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marere" height="30"
+  <a href="https://linkedin.com/in/amer-alduays-547477234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marere" height="30"
       width="40" /></a>
 <!--   <a href="https://www.leetcode.com/mme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mme" height="30" width="40" /></a> -->
 </p>
