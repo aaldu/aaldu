@@ -48,6 +48,8 @@
 
 <p> <h3 align="left">Projects:</h3> </p>
 
+- **PartSupply**
+<p>A website developed for a client that connects Vehicles repair shop to part suppliers. The Repair shops as buyers can submit use the car vin number to retrieve car information (using an api) and select parts to submit a part request. The part suppliers as seller can view the requests and respond with offers of what they have (price, condition, warranty, and delivery time). They can also ask questions if they need more information from the buyer and they buyer will see the question notification and answer. The admin can see and monitor everything from their account.</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maerea&show_icons=true&locale=en&layout=compact" alt="maerea" /></p>
