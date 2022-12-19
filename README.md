@@ -1,7 +1,4 @@
 
-
-<body style="color: red;"> 
-
 <h1 align="center">Hi 👋, I'm Amer</h1>
 <h3 align="center">A Graduate Software Engineer From The Univeristy of Michigan</h3>
 <h3 align="left">About me:</h3>
@@ -87,10 +84,6 @@ The map is currently hosted on the university's website and can be accessed at: 
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maerea&show_icons=true&locale=en&layout=compact" alt="maerea" /></p> -->
-
-
-</body>
-
 
 
 
