@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **.NET, C#, Angular, React**
 
-- 🤝Hobbies **Video Gaming, developing, watching anime**
-
-- 📫 How to reach me **amer.aldua@gmail.com**
+- 🤝Hobbies **Video Gaming, web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
