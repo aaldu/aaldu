@@ -4,7 +4,7 @@
 <h3 align="left">About me:</h3>
 
 
-- 🌱 I’m currently learning **.NET, C#, Angular**
+- 🌱 I’m currently learning **.NET, Angular**
 
 - 🤝Hobbies **Video Gaming, web development**
 
